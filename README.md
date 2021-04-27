@@ -1,9 +1,9 @@
 CS 362 hw3 flowchat:
 
-With Error handing:
+With Error handling:
 
 ![Image text](https://github.com/StrikeR2018/hw3/blob/main/withValidation.jpg)
 
-Wittout error handing:
+Without error handling:
 
 ![Image text](https://github.com/StrikeR2018/hw3/blob/main/withoutValidation.png)
